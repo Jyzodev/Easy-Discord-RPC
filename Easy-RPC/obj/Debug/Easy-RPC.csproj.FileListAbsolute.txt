@@ -1,0 +1,17 @@
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy-RPC.csproj.AssemblyReference.cache
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy-RPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy_RPC.Form1.resources
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy_RPC.Properties.Resources.resources
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy-RPC.csproj.GenerateResource.cache
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy-RPC.csproj.CoreCompileInputs.cache
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\Easy-RPC.exe.config
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\Easy-RPC.exe
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\Easy-RPC.pdb
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy-RPC.exe
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy-RPC.pdb
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\DiscordRPC.dll
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\DiscordRPC.pdb
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\DiscordRPC.xml
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Folio\Documents\repos\Easy-RPC\Easy-RPC\obj\Debug\Easy-RPC.csproj.CopyComplete
